@@ -1,0 +1,6 @@
+base:
+  '*':
+    - chess
+develop:
+  '*':
+    - chess
